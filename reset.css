@@ -1,0 +1,162 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 9, 2014, 1:28:34 PM
+    Author     : ideabox
+*/
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+/*
+
+<!-- <!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Responsive WebSite</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial width=1.0" />
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        
+        
+        
+        <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+        
+        <link rel="stylesheet" href="reset.css" type="text/css" media="screen" />
+        
+        <link rel="stylesheet" href="lightbox.css" type="text/css" media="screen" />
+        
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans|Baumans' rel='stylesheet' type='text/css'/>
+        
+        <script src="js/modernizr.js"></script>
+        <script src="js/respond.js"></script>
+        
+        <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write('<script type="text\/javascript" src="js\/1.7.2.jquery.min"><\/script>')</script>
+        
+        
+        
+        <script src="lightbox/js/lightbox.js"></script>
+<script src="js/prefixfree.min.js"></script>
+<script src="js/jquery.slides.min.js"></script>
+        
+       </head>
+        
+       <body>
+        
+        <div>
+
+            <header id="headbox"><h1> Lingulo HTML5 </h1>
+                <p>A responsive website tutorial </p>
+                <nav>
+                     <ul>
+                         <li> <a href="javascript:void(0)"> Home </a> </li>
+                         <li> <a href="javascript:void(0)">Porfolio </a>    </li>
+                         <li> <a href="javascript:void(0)"> About</a> </li>
+                         <li><a href="javascript:void(0)">  Contact </a>    </li>
+                    
+                
+                           </ul>
+                </nav>
+            </header>    
+            
+            <section class=" container" > 
+                <h2 class="hidden"> Lorem Ipsum </h2>
+                <article id="slider_containt1">
+                    <p>Weit hinten, hinter den Wortbergen, fern 
+                        der Länder Vokalien und Konsonantien leben die Blindtexte
+                        . Abgeschieden wohnen Sie in
+                        Buchstabhausen an der Küste des Semantik.
+              
+                    </p>
+                   <a class="button" href="some_page.html">Mehr lesen</a>
+                </article>
+                
+                <article id="slider_containt2"> 
+                <h3>Nulla consequat</h3>
+              <p>
+                Ein kleines Bächlein namens Duden fließt durch
+              ihren Ort und versorgt sie mit den nötigen Regelialien.
+               Es ist ein paradiesmatisches Land, in dem einem gebratene 
+             Satzteile in den Mund fliegen.
+              </p>
+               <a class="button" href="some_page.html">Mehr lesen</a>
+                  
+                </article>
+                <article id="slider_containt3"> 
+        
+                    <h3>Lorem ipsum</h3>
+
+                    <p>        Nicht einmal von der allmächtigen
+                               Interpunktion werden die Blindtexte 
+                               beherrscht – ein geradezu unorthographisches Leben.
+                   </p>
+                 
+                   <a class="button" href="some_page.html">Mehr lesen</a>
+                
+                
+                </article>
+                <div id="slides">
+                    
+                    <img src="slide1.jpg" />
+                        <img src="slide2." />
+                            <img src="slide3." />
+                    
+            
+            
+            
+                </div>
+            
+            </section>
+            
+            <section id="spacer">
+<h2 class="hidden">Dolor sit amet</h2>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit?</p>
+<div class="search">
+<form action="#">
+<input type="text" name="sitesearch" value="Enter a word..."/>
+<input type="submit" name="start_search" class="button" value="Search"/></form></div></section>
+            
+           
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </body>
+</html>
+-->
+
+
+
+
+
+
+*/
